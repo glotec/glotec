@@ -4,7 +4,7 @@
 
 <h3>🛠 Tech. Stacks</h3>
 
-- ✅ Web Application Development: ReactJS, NodeJS, ExpressJS, Javascript, Flask, PHP, HTML5, CSS3, Bootstrap, semantic ui. 
+- ✅ Web Application Development: ReactJS, NodeJS, ExpressJS, Javascript, Flask, PHP, HTML5, CSS3, Bootstrap. 
 - ✅ Test Driven Development: Jest
 - ✅ Enterprise Application Development(Desktop): Java (Swing)
 - ✅ Database Developement : SQL Server, MySQL, SQL Lite, MongoDB.
