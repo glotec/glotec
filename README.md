@@ -33,4 +33,4 @@ Get in touch with me on: <a href='mailto:gloireshukurubahati@gmail.com'>gloiresh
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=glotec&layout=compact)
 
 
-⭐️ From [grace](https://github.com/glotec)
+⭐️ From [gloire-glotec](https://github.com/glotec)
