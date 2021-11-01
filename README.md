@@ -1,16 +1,36 @@
-### Hi there 👋
+<h2> Hey here! Gloire SHUKURU BAHATI </h2>
 
-<!--
-**glotec/glotec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> About Me 💻 </h3>
 
-Here are some ideas to get you started:
+<h3>🛠 Tech. Stacks</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ Web Application Development: ReactJS, NodeJS, ExpressJS, Javascript, Flask, PHP, HTML5, CSS3, Bootstrap, semantic ui. 
+- ✅ Test Driven Development: Jest
+- ✅ Enterprise Application Development(Desktop): Java (Swing)
+- ✅ Database Developement : SQL Server, MySQL, SQL Lite, MongoDB.
+- ✅ Devops: Heroku, Git, GitHub, NPM.
+
+
+<h3>🛠 Design</h3>
+
+- 💻 Graphic Design, Logos, Posters, banners: Photoshop, Illustrator, PS-Lightroom.
+- 💻 Video Editing: Adobe Premier Pro.
+
+ <h3>📞 Talk to me</h3>
+
+   <br/>
+
+  <a href="https://www.linkedin.com/in/shukuru-gloire-714222187/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+
+Get in touch with me on: <a href='mailto:gloireshukurubahati@gmail.com'>gloireshukurubahati@gmail.com</a>
+
+![](https://github-readme-stats.vercel.app/api?username=glotec&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=glotec&layout=compact)
+
+
+⭐️ From [grace](https://github.com/glotec)
